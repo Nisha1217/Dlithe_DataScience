@@ -17,7 +17,7 @@ This file extracts data from "cric_data.tsv" and answers to 5 questions in file 
 
 4)GPU.ipynb
 
-This file uses "sgemm_product.csv" for data and does GPU runtime analysis
+This file uses "sgemm_product1.csv" for data and does GPU runtime analysis
 
 
 5)Cal.ipynb
