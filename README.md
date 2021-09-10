@@ -2,7 +2,7 @@ Python and Data Science Internship by DLithe
 
 1)Car.ipynb
 
-This file uses "car data.csv" file and calculates price depending on the year written in Current_Year variable
+This file uses "car.csv" file and calculates price depending on the year written in Current_Year variable
 
 
 2)Covid.ipynb
@@ -27,7 +27,7 @@ This file calculates hotel value depending on latitude, ocean proximity etc of C
 
 6)Nifty.ipynb
 
-This file uses "nifty.csv" file to calculate given question in file
+This file uses "Nifty.csv" file to calculate given question in file
 
 
 7)Planets.ipynb
